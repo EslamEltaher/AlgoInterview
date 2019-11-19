@@ -42,8 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NotRelated 6 - ACM ICPC Team.cs" />
+    <Compile Include="2 - Counting Valleys.cs" />
+    <Compile Include="NotRelated 4 - Equalize the Array.cs" />
+    <Compile Include="3 - Jumping on the Clouds.cs" />
+    <Compile Include="4 - Repeated String.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queen%27s Attack II - Copy %282%29.cs" />
+    <Compile Include="Queen%27s Attack II - Copy.cs" />
+    <Compile Include="NotRelated 5 - Queen%27s Attack II.cs" />
+    <Compile Include="1 - SockMerchant2.cs" />
+    <Compile Include="SockMerchant1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
