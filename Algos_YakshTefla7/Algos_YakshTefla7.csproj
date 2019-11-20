@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="5 - 2D Array - DS.cs" />
+    <Compile Include="6 - [Arrays] Left Rotation.cs" />
+    <Compile Include="7 - [shit] [Arrays] Minimum Swaps 2.cs" />
+    <Compile Include="8 - [Hash Tables] Ransom Note.cs" />
     <Compile Include="NotRelated 6 - ACM ICPC Team.cs" />
     <Compile Include="2 - Counting Valleys.cs" />
     <Compile Include="NotRelated 4 - Equalize the Array.cs" />
