@@ -42,10 +42,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10 - [Sorting] Mark and Toys.cs" />
+    <Compile Include="11 - [Strings] Making Anagrams.cs" />
+    <Compile Include="12 - [Greedy] Minimum Absolute Difference in an Array.cs" />
+    <Compile Include="13 - [Greedy] Luck Balance.cs" />
+    <Compile Include="14 - [shit] [Search] [Hash Tables] Ice Cream Parlor.cs" />
+    <Compile Include="15 - [Binary Search Tree] Lowest Common Ancestor.cs" />
+    <Compile Include="16 - [Trees] Is This a Binary Search Tree.cs" />
+    <Compile Include="17 - [shit] [Linked Lists] Inserting a Node Into a Sorted Doubly Linked List.cs" />
+    <Compile Include="18 - [Easy] Utopian Tree.cs" />
+    <Compile Include="19 - [Easy] Angry Professor.cs" />
+    <Compile Include="20 - [Easy] Circular Array Rotation.cs" />
+    <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
+    <Compile Include="22 - [Codility Training] Binary Gap.cs" />
+    <Compile Include="23 - [Codility Training] Sample Test.cs" />
     <Compile Include="5 - 2D Array - DS.cs" />
     <Compile Include="6 - [Arrays] Left Rotation.cs" />
     <Compile Include="7 - [shit] [Arrays] Minimum Swaps 2.cs" />
     <Compile Include="8 - [Hash Tables] Ransom Note.cs" />
+    <Compile Include="9 - [Dictionaries Hashmaps] Two Strings.cs" />
+    <Compile Include="Codility_Sample.cs" />
     <Compile Include="NotRelated 6 - ACM ICPC Team.cs" />
     <Compile Include="2 - Counting Valleys.cs" />
     <Compile Include="NotRelated 4 - Equalize the Array.cs" />
@@ -58,9 +74,15 @@
     <Compile Include="NotRelated 5 - Queen%27s Attack II.cs" />
     <Compile Include="1 - SockMerchant2.cs" />
     <Compile Include="SockMerchant1.cs" />
+    <Compile Include="Toptal 1.cs" />
+    <Compile Include="Toptal 2.cs" />
+    <Compile Include="Toptal 3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
