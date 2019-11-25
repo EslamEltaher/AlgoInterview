@@ -62,6 +62,8 @@
     <Compile Include="8 - [Hash Tables] Ransom Note.cs" />
     <Compile Include="9 - [Dictionaries Hashmaps] Two Strings.cs" />
     <Compile Include="Codility_Sample.cs" />
+    <Compile Include="DS_Trial\HashTable.cs" />
+    <Compile Include="DS_Trial\ProgramHashTable.cs" />
     <Compile Include="NotRelated 6 - ACM ICPC Team.cs" />
     <Compile Include="2 - Counting Valleys.cs" />
     <Compile Include="NotRelated 4 - Equalize the Array.cs" />
@@ -74,9 +76,6 @@
     <Compile Include="NotRelated 5 - Queen%27s Attack II.cs" />
     <Compile Include="1 - SockMerchant2.cs" />
     <Compile Include="SockMerchant1.cs" />
-    <Compile Include="Toptal 1.cs" />
-    <Compile Include="Toptal 2.cs" />
-    <Compile Include="Toptal 3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
