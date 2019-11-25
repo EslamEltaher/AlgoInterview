@@ -61,6 +61,10 @@
     <Compile Include="07 - [shit] [Arrays] Minimum Swaps 2.cs" />
     <Compile Include="08 - [Hash Tables] Ransom Note.cs" />
     <Compile Include="09 - [Dictionaries Hashmaps] Two Strings.cs" />
+    <Compile Include="24 - [Easy] Diagonal Difference.cs" />
+    <Compile Include="24 ---- Seperator Back to Easy Only -----.cs" />
+    <Compile Include="25 - [Medium][Later] Forming a Magic Square.cs" />
+    <Compile Include="26 - [Medium] Climbing the Leaderboard.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\HashTable.cs" />
     <Compile Include="DS_Trial\ProgramHashTable.cs" />
