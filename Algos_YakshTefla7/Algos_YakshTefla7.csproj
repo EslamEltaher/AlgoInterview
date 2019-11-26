@@ -67,6 +67,7 @@
     <Compile Include="26 - [Medium] Climbing the Leaderboard.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\HashTable.cs" />
+    <Compile Include="DS_Trial\LinkedList.cs" />
     <Compile Include="DS_Trial\ProgramHashTable.cs" />
     <Compile Include="NotRelated 6 - ACM ICPC Team.cs" />
     <Compile Include="02 - Counting Valleys.cs" />
