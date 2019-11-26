@@ -65,7 +65,12 @@
     <Compile Include="24 ---- Seperator Back to Easy Only -----.cs" />
     <Compile Include="25 - [Medium][Later] Forming a Magic Square.cs" />
     <Compile Include="26 - [Medium] Climbing the Leaderboard.cs" />
+    <Compile Include="27 - [Medium] [strings] Sherlock and the Valid String.cs" />
+    <Compile Include="28 - [Easy] [Greedy] Maximum Perimeter Triangle.cs" />
+    <Compile Include="29 - [Medium] [Greedy] Greedy Florist.cs" />
+    <Compile Include="30 - [Medium] [Greedy] Goodland Electricity.cs" />
     <Compile Include="Codility_Sample.cs" />
+    <Compile Include="DS_Trial\BinarySearchTree.cs" />
     <Compile Include="DS_Trial\HashTable.cs" />
     <Compile Include="DS_Trial\LinkedList.cs" />
     <Compile Include="DS_Trial\ProgramHashTable.cs" />
