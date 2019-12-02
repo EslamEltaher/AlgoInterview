@@ -69,6 +69,9 @@
     <Compile Include="28 - [Easy] [Greedy] Maximum Perimeter Triangle.cs" />
     <Compile Include="29 - [Medium] [Greedy] Greedy Florist.cs" />
     <Compile Include="30 - [Medium] [Greedy] Goodland Electricity.cs" />
+    <Compile Include="31 - [Ayman] [Medium] Non-Divisible Subset [using Mods].cs" />
+    <Compile Include="32 - [toLookBack] [Medium] Organizing Containers of Balls.cs" />
+    <Compile Include="33 - [toBeCorrected] [Medium] [bit Manipulation] Sansa and XOR.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
     <Compile Include="DS_Trial\HashTable.cs" />
