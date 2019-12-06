@@ -72,6 +72,11 @@
     <Compile Include="31 - [Ayman] [Medium] Non-Divisible Subset [using Mods].cs" />
     <Compile Include="32 - [toLookBack] [Medium] Organizing Containers of Balls.cs" />
     <Compile Include="33 - [toBeCorrected] [Medium] [bit Manipulation] Sansa and XOR.cs" />
+    <Compile Include="35 - [CF_2] Players.cs" />
+    <Compile Include="36 - [CF3] Fox.cs" />
+    <Compile Include="37 - [CF4] [467A] George and Accomodation.cs" />
+    <Compile Include="38 - [CF5] Police Recruits %28427A%29.cs" />
+    <Compile Include="friends\38 - [CF5] Police Recruits %28427A%29 AhmedAli.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
     <Compile Include="DS_Trial\HashTable.cs" />
@@ -89,12 +94,16 @@
     <Compile Include="NotRelated 5 - Queen%27s Attack II.cs" />
     <Compile Include="01 - SockMerchant2.cs" />
     <Compile Include="SockMerchant1.cs" />
+    <Compile Include="34 - [CF_1] %28732A%29.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CodeForces\A\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
