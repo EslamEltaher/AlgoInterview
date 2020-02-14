@@ -78,6 +78,9 @@
     <Compile Include="38 - [CF5] Police Recruits %28427A%29.cs" />
     <Compile Include="39 - [CF6] Night at the Museum %28731A%29.cs" />
     <Compile Include="40 - [CF7] Shaass and Oskols %28294A%29.cs" />
+    <Compile Include="41 - [Easy] Designer PDF Viewer.cs" />
+    <Compile Include="42 - [Easy] Find Digits.cs" />
+    <Compile Include="43 - [Easy] Cut the sticks.cs" />
     <Compile Include="friends\38 - [CF5] Police Recruits %28427A%29 AhmedAli.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
