@@ -76,6 +76,8 @@
     <Compile Include="36 - [CF3] Fox.cs" />
     <Compile Include="37 - [CF4] [467A] George and Accomodation.cs" />
     <Compile Include="38 - [CF5] Police Recruits %28427A%29.cs" />
+    <Compile Include="39 - [CF6] Night at the Museum %28731A%29.cs" />
+    <Compile Include="40 - [CF7] Shaass and Oskols %28294A%29.cs" />
     <Compile Include="friends\38 - [CF5] Police Recruits %28427A%29 AhmedAli.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
