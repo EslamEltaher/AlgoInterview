@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -66,9 +69,12 @@
     <Compile Include="25 - [Medium][Later] Forming a Magic Square.cs" />
     <Compile Include="26 - [Medium] Climbing the Leaderboard.cs" />
     <Compile Include="27 - [Medium] [strings] Sherlock and the Valid String.cs" />
+    <Compile Include="27redo - [Medium] [strings] Sherlock and the Valid String.cs" />
     <Compile Include="28 - [Easy] [Greedy] Maximum Perimeter Triangle.cs" />
     <Compile Include="29 - [Medium] [Greedy] Greedy Florist.cs" />
+    <Compile Include="29redo - [Medium] [Greedy] Greedy Florist.cs" />
     <Compile Include="30 - [Medium] [Greedy] Goodland Electricity.cs" />
+    <Compile Include="30redo - [Medium] [Greedy] Goodland Electricity.cs" />
     <Compile Include="31 - [Ayman] [Medium] Non-Divisible Subset [using Mods].cs" />
     <Compile Include="32 - [toLookBack] [Medium] Organizing Containers of Balls.cs" />
     <Compile Include="33 - [toBeCorrected] [Medium] [bit Manipulation] Sansa and XOR.cs" />
@@ -87,6 +93,11 @@
     <Compile Include="DS_Trial\HashTable.cs" />
     <Compile Include="DS_Trial\LinkedList.cs" />
     <Compile Include="DS_Trial\ProgramHashTable.cs" />
+    <Compile Include="friends\Othman_Prep hackerrank-1.cs" />
+    <Compile Include="friends\Othman_Prep hackerrank-2.cs" />
+    <Compile Include="friends\Othman_Prep hackerrank-4.cs" />
+    <Compile Include="friends\Othman_Prep hackerrank-3.cs" />
+    <Compile Include="friends\Othman_Prep hackerrank-5.cs" />
     <Compile Include="NotRelated 6 - ACM ICPC Team.cs" />
     <Compile Include="02 - Counting Valleys.cs" />
     <Compile Include="NotRelated 4 - Equalize the Array.cs" />
@@ -100,11 +111,14 @@
     <Compile Include="01 - SockMerchant2.cs" />
     <Compile Include="SockMerchant1.cs" />
     <Compile Include="34 - [CF_1] %28732A%29.cs" />
+    <Compile Include="WilliamFiset - Dynamic Programming\1- Kattis - Magic cows.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="30redo - [Medium] [Greedy] Goodland Electricity Input.txt" />
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
   <ItemGroup>
