@@ -122,6 +122,7 @@
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="2021\" />
     <Folder Include="CodeForces\A\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
