@@ -56,6 +56,15 @@
     <Compile Include="18 - [Easy] Utopian Tree.cs" />
     <Compile Include="19 - [Easy] Angry Professor.cs" />
     <Compile Include="20 - [Easy] Circular Array Rotation.cs" />
+    <Compile Include="2021\2 - [Easy] marcs_cakeWalk.cs" />
+    <Compile Include="2021\3- [Easy] Grid Challenge.cs" />
+    <Compile Include="2021\4 - [Easy] Beautiful Pairs [X].cs" />
+    <Compile Include="2021\5 - [Medium] Candies [X].cs" />
+    <Compile Include="2021\6 - [Medium] Max Min.cs" />
+    <Compile Include="2021\7 - [Medium] equal [X].cs" />
+    <Compile Include="2021\8 - [Medium] Sam and substrings - Editorial.cs" />
+    <Compile Include="2021\9 - [Hard] Angry Children 2.cs" />
+    <Compile Include="2021\DNA_Health_Knapsack [X].cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
@@ -122,7 +131,6 @@
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="2021\" />
     <Folder Include="CodeForces\A\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
