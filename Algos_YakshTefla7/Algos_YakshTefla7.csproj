@@ -64,6 +64,13 @@
     <Compile Include="2021\07 - [Medium] equal [X].cs" />
     <Compile Include="2021\08 - [Medium] Sam and substrings - Editorial.cs" />
     <Compile Include="2021\09 - [Hard] Angry Children 2.cs" />
+    <Compile Include="2021\10 - Non-Divisible Subset [X].cs" />
+    <Compile Include="2021\11 - Bigger is Greater.cs" />
+    <Compile Include="2021\12 - The Time in Words.cs" />
+    <Compile Include="2021\13 - [Medium] 3D Surface Area.cs" />
+    <Compile Include="2021\14 - [Medium] The Grid Search %28naive%29.cs" />
+    <Compile Include="2021\15 - [Medium] Absolute Permutation.cs" />
+    <Compile Include="2021\15 - [Medium] The Bomberman Game.cs" />
     <Compile Include="2021\DNA_Health_Knapsack [X].cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
@@ -123,10 +130,12 @@
     <Compile Include="WilliamFiset - Dynamic Programming\1- Kattis - Magic cows.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="2021\Bomberman.xlsx" />
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="2021\Medium Solved before 2021.txt" />
     <Content Include="30redo - [Medium] [Greedy] Goodland Electricity Input.txt" />
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
