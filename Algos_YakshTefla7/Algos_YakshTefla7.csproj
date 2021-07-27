@@ -71,6 +71,8 @@
     <Compile Include="2021\14 - [Medium] The Grid Search %28naive%29.cs" />
     <Compile Include="2021\15 - [Medium] Absolute Permutation.cs" />
     <Compile Include="2021\15 - [Medium] The Bomberman Game.cs" />
+    <Compile Include="2021\16 - [Medium] Almost Sorted - 50pts.cs" />
+    <Compile Include="2021\17 - [Medium] Ema%27s Supercomputer [X].cs" />
     <Compile Include="2021\DNA_Health_Knapsack [X].cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
@@ -130,7 +132,7 @@
     <Compile Include="WilliamFiset - Dynamic Programming\1- Kattis - Magic cows.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="2021\Bomberman.xlsx" />
+    <None Include="2021\15 - Bomberman Appendix.xlsx" />
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
