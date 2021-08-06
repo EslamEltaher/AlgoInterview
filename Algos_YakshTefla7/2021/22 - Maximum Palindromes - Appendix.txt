@@ -1,0 +1,110 @@
+AAA
+CCC
+
+6!	  6*5*4*3!	  6*5*4     5*4
+-------	= ------- 	= ------- = --- = 20	
+3! * 3!	  3! * 3!	  3*2	     1
+
+
+CC CAAA
+CC ACAA		CA C CAA 
+CC AACA		CA C ACA	CA A CCA
+CC AAAC		CA C AAC	CA A CAC	CA A ACC
+
+		AC C CAA	
+		AC C ACA	AC A CCA
+		AC C AAC	AC A CAC	AC A ACC
+
+				AA C CCA	
+				AA C CAC	AA C ACC
+
+						AA A CCC
+
+CCC AAA
+
+CCA CAA		CAC CAA 
+CCA ACA		CAC ACA		CAA CCA
+CCA AAC		CAC AAC		CAA CAC		CAA ACC
+
+		ACC CAA	
+		ACC ACA		ACA CCA
+		ACC AAC		ACA CAC		ACA ACC
+
+				AAC CCA	
+				AAC CAC		AAC ACC
+
+						AAA CCC
+
+
+
+
+
+
+
+CC AAA
+
+CA CAA
+CA ACA
+CA AAC
+
+AA CCA
+AA CAC
+
+AA ACC		
+
+
+
+
+CCCA
+
+CCAC
+CACC
+ACCC
+
+
+
+---------- The Following is not correct ------------
+
+
+aaaa
+bbb
+cc
+
+
+aaaa 1			ONLY A  result = 1, count[a] = 1
+
+bbbaaaa 1		A && B result  = 13		, count[a] = 1 * 4, count[b] = 9
+bbabaaa 2			       = 3 * 4 + 1	,  		  ,          = 3 * (4 - 1)
+bbaabaa 3
+bbaaaba 4
+bbaaaab 5
+
+babaaab 6
+baabaab 7
+baaabab 8
+baaaabb 9
+
+abaaabb 10
+aabaabb 11
+aaababb 12
+aaaabbb 13
+
+
+XXXXXXX all 13 	A && B && c result = 13 * 15	, count[a] = old*7, count[b] = old*7, count[c] = old * 8
+
+ccXXXXXXX 1
+cXcXXXXXX 2
+cXXcXXXXX 3
+cXXXcXXXX 4
+cXXXXcXXX 5
+cXXXXXcXX 6
+cXXXXXXcX 7
+cXXXXXXXc 8
+ 
+XcXXXXXXc 9 
+XXcXXXXXc 10
+XXXcXXXXc 11
+XXXXcXXXc 12
+XXXXXcXXc 13
+XXXXXXcXc 14
+XXXXXXXcc 15

@@ -73,6 +73,13 @@
     <Compile Include="2021\15 - [Medium] The Bomberman Game.cs" />
     <Compile Include="2021\16 - [Medium] Almost Sorted - 50pts.cs" />
     <Compile Include="2021\17 - [Medium] Ema%27s Supercomputer - brute.cs" />
+    <Compile Include="2021\18 - [Medium] Fraudulent Activity Notifications.cs" />
+    <Compile Include="2021\19 - [Medium] Encryption.cs" />
+    <Compile Include="2021\20 - [Medium] Minimum Loss.cs" />
+    <Compile Include="2021\21 - [Medium] cut the tree.cs" />
+    <Compile Include="2021\22 - [Medium] Maximum Palindromes [X].cs" />
+    <Compile Include="2021\23 - [Easy] Missing Numbers.cs" />
+    <Compile Include="2021\24 - [Medium] Extra Long Factorials.cs" />
     <Compile Include="2021\DNA_Health_Knapsack [X].cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
@@ -137,6 +144,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="2021\22 - Maximum Palindromes - Appendix.txt" />
     <Content Include="2021\Medium Solved before 2021.txt" />
     <Content Include="30redo - [Medium] [Greedy] Goodland Electricity Input.txt" />
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
