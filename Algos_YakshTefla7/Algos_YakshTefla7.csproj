@@ -112,6 +112,10 @@
     <Compile Include="41 - [Easy] Designer PDF Viewer.cs" />
     <Compile Include="42 - [Easy] Find Digits.cs" />
     <Compile Include="43 - [Easy] Cut the sticks.cs" />
+    <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\MergeSort_Algorithm.cs" />
+    <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\QuickSort_Algorithm.cs" />
+    <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\InsertionSort_Algorithm.cs" />
+    <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\Util.cs" />
     <Compile Include="friends\38 - [CF5] Police Recruits %28427A%29 AhmedAli.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
