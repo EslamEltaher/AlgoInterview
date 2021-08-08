@@ -80,6 +80,7 @@
     <Compile Include="2021\22 - [Medium] Maximum Palindromes [X].cs" />
     <Compile Include="2021\23 - [Easy] Missing Numbers.cs" />
     <Compile Include="2021\24 - [Medium] Extra Long Factorials.cs" />
+    <Compile Include="2021\Codility Challenge - Coder Of Rivia.cs" />
     <Compile Include="2021\DNA_Health_Knapsack [X].cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
