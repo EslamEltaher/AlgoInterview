@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Algos_YakshTefla7</RootNamespace>
     <AssemblyName>Algos_YakshTefla7</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+	  <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
@@ -82,6 +82,33 @@
     <Compile Include="2021\24 - [Medium] Extra Long Factorials.cs" />
     <Compile Include="2021\Codility Challenge - Coder Of Rivia.cs" />
     <Compile Include="2021\DNA_Health_Knapsack [X].cs" />
+    <Compile Include="2022\01 - leet - Two Sum.cs" />
+    <Compile Include="2022\02 - leet - Middle of the Linked List.cs" />
+    <Compile Include="2022\03 - leet - Linked List Cycle.cs" />
+    <Compile Include="2022\04 - leet - valid Parentheses.cs" />
+    <Compile Include="2022\05 - leet - Minimum Deletions to Make Character Frequencies Unique.cs" />
+    <Compile Include="2022\06 - leet - Maximum Length of a Concatenated String with Unique Characters.cs" />
+    <Compile Include="2022\07 - leet - Reverse Linked List.cs" />
+    <Compile Include="2022\08 - leet - Maximum Subarray.cs" />
+    <Compile Include="2022\09 - leet - Find First and Last Position of Element in Sorted Array.cs" />
+    <Compile Include="2022\10 - grokking - dijkstra.cs" />
+    <Compile Include="2022\11 - hackerrank - prep - dict - Ransom Note.cs" />
+    <Compile Include="2022\12 - hackerrank - prep - dict - Two Strings.cs" />
+    <Compile Include="2022\13 - hackerrank - prep - dict - Count Triplets.cs" />
+    <Compile Include="2022\14 - hackerrank - prep - dict - Frequency Queries.cs" />
+    <Compile Include="2022\15 - hackerrank - prep - dict - Sherlock and Anagrams - Editorial Opened.cs" />
+    <Compile Include="2022\16 - hackerrank - prep - string - Making Anagrams.cs" />
+    <Compile Include="2022\17 - hackerrank - prep - string - Sherlock and the Valid String - harder.cs" />
+    <Compile Include="2022\18 - hackerrank - prep - string - Special String Again.cs" />
+    <Compile Include="2022\19 - hackerrank - prep - string - Common Child.cs" />
+    <Compile Include="2022\20 - hackerrank - prep - string - Alternating Characters.cs" />
+    <Compile Include="2022\21 - hackerrank - prep - array - 2D Array.cs" />
+    <Compile Include="2022\22 - hackerrank - prep - array - Arrays_ Left Rotation.cs" />
+    <Compile Include="2022\23 - hackerrank - prep - array - Minimum Swaps 2.cs" />
+    <Compile Include="2022\24 - hackerrank - prep - array - Array Manipulation.cs" />
+    <Compile Include="2022\25 - hackerrank - prep - array - New Year Chaos.cs" />
+    <Compile Include="2022\26 - hackerrank - prep - sorting - Mark and Toys.cs" />
+    <Compile Include="2022\27 - hackerrank - prep - sorting - Sorting_ Comparator.cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
@@ -117,6 +144,10 @@
     <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\QuickSort_Algorithm.cs" />
     <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\InsertionSort_Algorithm.cs" />
     <Compile Include="Algorithms - Data Structures\Algorithms\Sorting\Util.cs" />
+    <Compile Include="contests\01 - 01 - leet - weekly 296 - virtual - Min Max Game.cs" />
+    <Compile Include="contests\01 - 02 - leet - weekly 296 - virtual - Partition Array Such That Maximum Difference Is K.cs" />
+    <Compile Include="contests\01 - 03 - leet - weekly 296 - virtual - Replace Elements in an Array.cs" />
+    <Compile Include="contests\01 - 04 - leet - weekly 296 - virtual - design-a-text-editor.cs" />
     <Compile Include="friends\38 - [CF5] Police Recruits %28427A%29 AhmedAli.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
@@ -151,6 +182,7 @@
   <ItemGroup>
     <Content Include="2021\22 - Maximum Palindromes - Appendix.txt" />
     <Content Include="2021\Medium Solved before 2021.txt" />
+    <Content Include="2022\25 - hackerrank - prep - array - New Year Chaos - Note.txt" />
     <Content Include="30redo - [Medium] [Greedy] Goodland Electricity Input.txt" />
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
