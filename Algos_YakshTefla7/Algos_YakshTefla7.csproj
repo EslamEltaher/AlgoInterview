@@ -110,6 +110,7 @@
     <Compile Include="2022\25 - hackerrank - prep - array - New Year Chaos.cs" />
     <Compile Include="2022\26 - hackerrank - prep - sorting - Mark and Toys.cs" />
     <Compile Include="2022\27 - hackerrank - prep - sorting - Sorting_ Comparator.cs" />
+    <Compile Include="2022\28 - hackerrank - prep - sorting - Merge Sort_ Counting Inversions unsolved.cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
