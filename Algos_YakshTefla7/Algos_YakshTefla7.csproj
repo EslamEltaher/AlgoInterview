@@ -112,6 +112,9 @@
     <Compile Include="2022\26 - hackerrank - prep - sorting - Mark and Toys.cs" />
     <Compile Include="2022\27 - hackerrank - prep - sorting - Sorting_ Comparator.cs" />
     <Compile Include="2022\28 - hackerrank - prep - sorting - Merge Sort_ Counting Inversions unsolved.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\01 - 0034 - Med -  Find First and Last Position of Element in Sorted Array.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\02 - 0033 - Med -  Search in Rotated Sorted Array.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\03 - 0074 - Search a 2D Matrix.cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
