@@ -92,6 +92,7 @@
     <Compile Include="2022\07 - leet - Reverse Linked List.cs" />
     <Compile Include="2022\08 - leet - Maximum Subarray.cs" />
     <Compile Include="2022\09 - leet - Find First and Last Position of Element in Sorted Array.cs" />
+    <Compile Include="2022\29 - leet - 0215 - Kth Largest Element in an Array.cs" />
     <Compile Include="2022\10 - grokking - dijkstra.cs" />
     <Compile Include="2022\11 - hackerrank - prep - dict - Ransom Note.cs" />
     <Compile Include="2022\12 - hackerrank - prep - dict - Two Strings.cs" />
@@ -150,6 +151,7 @@
     <Compile Include="contests\01 - 02 - leet - weekly 296 - virtual - Partition Array Such That Maximum Difference Is K.cs" />
     <Compile Include="contests\01 - 03 - leet - weekly 296 - virtual - Replace Elements in an Array.cs" />
     <Compile Include="contests\01 - 04 - leet - weekly 296 - virtual - design-a-text-editor.cs" />
+    <Compile Include="DS_Trial\MaxHeap.cs" />
     <Compile Include="friends\38 - [CF5] Police Recruits %28427A%29 AhmedAli.cs" />
     <Compile Include="Codility_Sample.cs" />
     <Compile Include="DS_Trial\BinarySearchTree.cs" />
