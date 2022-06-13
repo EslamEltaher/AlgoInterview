@@ -1,0 +1,6 @@
+﻿study plan Url: https://leetcode.com/study-plan/algorithm/
+
+Problems:
+	3 Easy
+	42 Medium
+	2 Hard

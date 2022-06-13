@@ -117,6 +117,8 @@
     <Compile Include="2022\leet_algo-study-plan-II\03 - 0074 - Search a 2D Matrix.cs" />
     <Compile Include="2022\leet_algo-study-plan-II\04 - 0153 - Find Minimum in Rotated Sorted Array.cs" />
     <Compile Include="2022\leet_algo-study-plan-II\05 - 0162 - Find Peak Element.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\06 - 0082 - Remove Duplicates from Sorted List II.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\07 - 0015 - 3Sum   [hard to implement].cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
@@ -192,6 +194,7 @@
     <Content Include="2021\22 - Maximum Palindromes - Appendix.txt" />
     <Content Include="2021\Medium Solved before 2021.txt" />
     <Content Include="2022\25 - hackerrank - prep - array - New Year Chaos - Note.txt" />
+    <Content Include="2022\leet_algo-study-plan-II\Algorithm-II_ Study-Plan.txt" />
     <Content Include="30redo - [Medium] [Greedy] Goodland Electricity Input.txt" />
     <Content Include="TestInput\21 Easy %28SHIT%29\input00.txt" />
   </ItemGroup>
