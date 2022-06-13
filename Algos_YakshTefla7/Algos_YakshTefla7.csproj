@@ -119,6 +119,9 @@
     <Compile Include="2022\leet_algo-study-plan-II\05 - 0162 - Find Peak Element.cs" />
     <Compile Include="2022\leet_algo-study-plan-II\06 - 0082 - Remove Duplicates from Sorted List II.cs" />
     <Compile Include="2022\leet_algo-study-plan-II\07 - 0015 - 3Sum   [hard to implement].cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\08 - 0844 - Backspace String Compare.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\09 - 0986 - Interval List Intersections.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\10 - 0011 - Container With Most Water.cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
