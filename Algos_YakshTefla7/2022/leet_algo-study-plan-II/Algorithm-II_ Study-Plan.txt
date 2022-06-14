@@ -11,3 +11,7 @@ Problems:
 
 12 - 0713 Sliding Window
 	Solved naive only (Sliding windows solution implemented after opening leetcode solution)
+
+
+14 - 0200 DFS & I Solved it with Union - Find Algorithm
+15 - 0547 DFS & I Solved it with Union - Find Algorithm
