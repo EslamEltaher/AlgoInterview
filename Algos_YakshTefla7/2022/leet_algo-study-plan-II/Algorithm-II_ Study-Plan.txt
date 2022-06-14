@@ -4,3 +4,10 @@ Problems:
 	3 Easy
 	42 Medium
 	2 Hard
+
+
+07 - 0015 Hard To Implement
+	Much Easier Implementation in Youtube by NeetCode
+
+12 - 0713 Sliding Window
+	Solved naive only (Sliding windows solution implemented after opening leetcode solution)
