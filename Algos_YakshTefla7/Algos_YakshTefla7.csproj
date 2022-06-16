@@ -129,6 +129,8 @@
     <Compile Include="2022\leet_algo-study-plan-II\14 - 0200 - Number of Islands - UnionFind.cs" />
     <Compile Include="2022\leet_algo-study-plan-II\15 - 0547 - Number of Provinces - DFS.cs" />
     <Compile Include="2022\leet_algo-study-plan-II\15 - 0547 - Number of Provinces - UnionFind.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\21 - 0078 - Subsets.cs" />
+    <Compile Include="2022\leet_algo-study-plan-II\22 - 0090 - Subsets II.cs" />
     <Compile Include="21 - [Easy][shit] Save the Prisoner.cs" />
     <Compile Include="22 - [Codility Training] Binary Gap.cs" />
     <Compile Include="23 - [Codility Training] Sample Test.cs" />
